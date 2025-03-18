@@ -5,4 +5,5 @@ node_modules
 *.exe
 *.msi
 *.deb
-*.Appimage
+*.AppImage
+*.tar.gz
